@@ -1,0 +1,26 @@
+{
+  "name": "mongodb-data-layer-fundamentals-and-advanced-techniques-dawittesfaye-developer",
+  "version": "1.0.0",
+  "description": "## Setup Instructions",
+  "main": "insert_books.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DawitTesfaye-Developer/mongodb-data-layer-fundamentals-and-advanced-techniques-DawitTesfaye-Developer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DawitTesfaye-Developer/mongodb-data-layer-fundamentals-and-advanced-techniques-DawitTesfaye-Developer/issues"
+  },
+  "homepage": "https://github.com/DawitTesfaye-Developer/mongodb-data-layer-fundamentals-and-advanced-techniques-DawitTesfaye-Developer#readme",
+  "dependencies": {
+    "mongodb": "^6.20.0"
+  }
+}
