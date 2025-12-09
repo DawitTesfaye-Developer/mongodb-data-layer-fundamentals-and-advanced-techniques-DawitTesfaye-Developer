@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/DawitTesfaye-Developer/mongodb-data-layer-fundamentals-and-advanced-techniques-DawitTesfaye-Developer#readme",
   "dependencies": {
-    "mongodb": "^6.20.0"
+    "mongodb": "^6.21.0"
   }
 }
